@@ -1,0 +1,38 @@
+{"Bikes": [
+  {
+    "id": 1,
+    "name": "Mountain Bike",
+    "price": 999.99,
+    "description": "A high-performance mountain bike built for rugged terrains.",
+    "image": "https://cdn.shopify.com/s/files/1/1816/5035/products/DSCF2436_940x.jpg?v=1564057539"
+  },
+  {
+    "id": 2,
+    "name": "Road Bike",
+    "price": 1499.99,
+    "description": "A lightweight road bike designed for speed and endurance.",
+    "image": "https://cdn.shopify.com/s/files/1/1816/5035/products/DSCF2436_940x.jpg?v=1564057539"
+  },
+  {
+    "id": 3,
+    "name": "City Bike",
+    "price": 499.99,
+    "description": "A comfortable and practical bike for urban commuting.",
+    "image": "https://cdn.shopify.com/s/files/1/1816/5035/products/DSCF2436_940x.jpg?v=1564057539"
+  },
+  {
+    "id": 4,
+    "name": "BMX Bike",
+    "price": 299.99,
+    "description": "A compact and maneuverable bike for freestyle tricks and stunts.",
+    "image": "https://cdn.shopify.com/s/files/1/1816/5035/products/DSCF2436_940x.jpg?v=1564057539"
+  },
+  {
+    "id": 5,
+    "name": "BMX Bike",
+    "price": 299.99,
+    "description": "A compact and maneuverable bike for freestyle tricks and stunts.",
+    "image": "https://cdn.shopify.com/s/files/1/1816/5035/products/DSCF2436_940x.jpg?v=1564057539"
+  }
+]
+}
